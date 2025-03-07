@@ -1,8 +1,4 @@
-/* Ler dois valores para as variáveis A e B, 
-   efetuar a troca dos valores de forma que 
-   a variável A passe a possuir o valor da 
-   variável B e que B passe a possuir o valor 
-   da variável A apresentar os valores trocados.*/
+/* Ler dois valores para as variÃ¡veis A e B, efetuar a troca dos valores de forma que a variÃ¡vel A passe a possuir o valor da variÃ¡vel B e que B passe a possuir o valor da variÃ¡vel A apresentar os valores trocados.*/
 #include<stdio.h>
 int main(){
 	int a, b, t;
