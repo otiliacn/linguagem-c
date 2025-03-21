@@ -21,9 +21,9 @@ estatutários. O valor máximo da prestação não poderá ultrapassar 30% do sa
 <li>Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se é um triângulo eqüilátero, isósceles ou escaleno. Se eles não formarem um triângulo, escrever uma mensagem. Antes de começar a elaboração do algoritmo, torna-se necessária a revisão de algumas propriedades e definições. Propriedade - O comprimento de cada lado de um triângulo é menor do que a soma dos comprimentos dos outros dois lados. Definição 1 - Chama-se triângulo eqüilátero ao triângulo que tem os comprimentos dos três lados iguais. Definição 2 - Chama-se triângulo isósceles ao triângulo que tem os comprimentos de dois lados iguais. Portanto, todo triângulo equilátero é também isósceles. Definição 3 - Chama-se triângulo escaleno ao triângulo que tem os comprimentos de seus três lados diferentes.</li>
 <li>Preparar um algoritmo para ler os comprimentos dos três lados de um triângulo (s1, s2 e s3) e determinar que o tipo de triângulo temos, com base nos seguintes casos. Sejam A o maior dos lados de s1, s2 e s3 e B e C os outros dois. Então:
 <ul><li>Se A >= B + C – Nenhum Triângulo é formado</li>
-<li>Se A<sup>2</sup> = B2 + C2 – Triângulo Retângulo é formado</li>
-<li>Se A<sub>2</sub> > B2 + C2 – Triângulo Obtusângulo é formado</li>
-<li>Se A2 < B2 + C2 – Triângulo Acutângulo é formado</li></ul>
+<li>Se A<sup>2</sup> = B<sup>2</sup> + C<sup>2</sup> – Triângulo Retângulo é formado</li>
+<li>Se A<sup>2</sup> > B<sup>2</sup> + C<sup>2</sup> – Triângulo Obtusângulo é formado</li>
+<li>Se A<sup>2</sup> < B<sup>2</sup> + C<sup>2</sup> – Triângulo Acutângulo é formado</li></ul>
 
 
 
