@@ -1,16 +1,14 @@
 #include<stdio.h>
 int main(){
-	// declarar as variaveis
-	int n1, n2, res;
-	// entrada de dados
+	int n1, n2;
 	printf("Entre com um valor: ");
 	scanf("%d", &n1);
 	printf("Entre com outro valor: ");
 	scanf("%d", &n2);
-	res = n1 + n2;
-	// decisï¿½o
-	if (res >= 10){
-		printf("A soma eh %d", res);
-	}	
+	if(n1 == n2){
+		printf("Os valores são iguais.");
+	}else{
+		printf("Os valores são diferentes");
+	}
 	return 0;
 }

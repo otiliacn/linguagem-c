@@ -1,5 +1,3 @@
-/*7 ) Faça um algoritmo que receba um número e 
-informe se ele é divisível por 7.  */
 #include<stdio.h>
 int main(){
 	int num;

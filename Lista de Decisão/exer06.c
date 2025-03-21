@@ -1,5 +1,3 @@
-/* 6) Faça um algoritmo que receba um número 
-e informe se ele é par ou ímpar. */
 #include<stdio.h>
 int main(){
 	int num;
