@@ -43,15 +43,30 @@ estatutários. O valor máximo da prestação não poderá ultrapassar 30% do sa
 <li>Faça um algoritmo que leia o ano de nascimento de uma pessoa, calcule e mostre sua idade e, também, verifique e mostre se ela já tem idade para votar (16 anos ou mais) e para conseguir a carteira de habilitação (18 anos ou mais).</li>
 <li>Escreva um algoritmo que leia o código de um determinado produto e mostre a sua classificação. Utilize a seguinte tabela como referência:
 <table>
-<th>Código</th>
-<th>Classificação</th>
+<th>Código</th><th>Classificação</th>
 <tr><td>1 </td><td>Alimento não-perecível </td></tr>
 <tr><td>2, 3 ou 4</td><td>Alimento perecível </td></tr>
 <tr><td>5 ou 6</td><td>Vestuário </td></tr>
 <tr><td>7</td><td>Higiene pessoal </td></tr>
 <tr><td>8 até 15</td><td>Limpeza e utensílios domésticos</td></tr>
 <tr><td>Qualquer outro código</td><td>Inválido </td></tr>
-</table>
-
+</table></li>
+<li>Elabore um algoritmo que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
+<table>
+<th>Idade</th><th>Categoria</th>
+<tr><td>5 até 7 anos</td><td>Infantil A</td></tr>
+<tr><td>8 até 10 anos</td><td>Infantil B</td></tr>
+<tr><td>11 até 13 anos</td><td>Juvenil A</td></tr>
+<tr><td>14 até 17 anos</td><td>Juvenil B</td></tr>
+<tr><td>Maiores de 18 anos</td><td>Adulto</td></tr>
+</table></li>
+<li>Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado.
+<table>
+<th>Código</th><th>Condição de pagamento</th>
+<tr><td>1</td><td>À vista em dinheiro ou cheque, recebe 10% de desconto</td></tr>
+<tr><td>2</td><td>À vista no cartão de crédito, recebe 5% de desconto</td></tr>
+<tr><td>3</td><td>Em 2 vezes, preço normal de etiqueta sem juros</td></tr>
+<tr><td>4</td><td>Em 3 vezes, preço normal de etiqueta mais juros de 10%</td></tr>
+</table></li>
 
 </ol>
