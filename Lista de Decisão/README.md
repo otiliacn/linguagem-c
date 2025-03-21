@@ -24,7 +24,34 @@ estatutários. O valor máximo da prestação não poderá ultrapassar 30% do sa
 <li>Se A<sup>2</sup> = B<sup>2</sup> + C<sup>2</sup> – Triângulo Retângulo é formado</li>
 <li>Se A<sup>2</sup> > B<sup>2</sup> + C<sup>2</sup> – Triângulo Obtusângulo é formado</li>
 <li>Se A<sup>2</sup> < B<sup>2</sup> + C<sup>2</sup> – Triângulo Acutângulo é formado</li></ul>
-
+<li>Ler três valores e mostrá-los em ordem crescente.</li>
+<li>Ler três valores e mostrá-los em ordem decrescente.</li>
+<li>Ler cinco números e identificar qual o maior e qual o menor.</li>
+<li>Faça um algoritmo que receba o nome e o número de votos de cada um de dois candidatos em uma eleição e diga qual foi o vencedor ou, se houve empate, que deverá haver um segundo turno.</li>
+<li>Refaça o algoritmo anterior para três candidatos.</li>
+<li>Faça um algoritmo que solicite na tela o nome de uma pessoa, seu endereço, idade, sexo e estado civil. Se a pessoa for do sexo masculino (M) e a pessoa for maior de 17 anos então peça também o número do certificado de reservista e se for maior de 17 anos o número do título de eleitor.</li>
+<li>Faça um algoritmo que receba dois números e ofereça um menu de opções de qual operação fazer com estes números (soma, subtração, multiplicação e divisão). Escolhida a opção, o algoritmo apresenta o resultado da operação escolhida.</li>
+<li>Ler 4 notas escolares, calcular a média do aluno, se a média < 3 dizer que o aluno foi reprovado; se a média maior ou igual 3 e menor 5 pedir a nota do exame final, calcular a média anual final e verificar se aluno foi aprovado (media > maior ou igual a 5 aluno aprovado senão reprovado.</li>
+<li>Faça um algoritmo que leia 4 notas de alunos, calcule a média e imprima na tela uma mensagem que o aluno foi aprovado se a média do aluno foi >= 7. Se a média foi < 7 pedir a nota do exame final, calcular a nova média que se>= 5 informar então que o aluno foi aprovado por exame final, caso a média seja < 5 informe que o aluno foi reprovado.</li>
+<li>Faça um algoritmo que receba 3 números e diga qual o maior dos 3. (Não esqueça que podem ser iguais em dois ou mesmo os três números).</li>
+<li>Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule e apresente seu peso ideal, utilizando as seguintes fórmulas:
+<ul><li>Para homens: (72,7 * h) – 58;</li>
+<li>Para mulheres: (62,1 * h) – 44,7.</li></ul>
+<li>Entrar com nome, sexo e idade de uma pessoa. Se a pessoa for do sexo feminino e tiver menos que 25 anos, imprimir nome e a mensagem: “aceita”. Caso contrário, imprimir nome e a mensagem: “não aceita”.</li>
+<li>Entrar com a idade de uma pessoa e informar: se é maior de idade; se é menor de idade ou se é maior de 65 anos.</li>
+<li>Entrar com a sigla do estado de uma pessoa e imprimir uma das mensagens: carioca, paulista, mineiro ou outros estados.</li>
+<li>Faça um algoritmo que leia o ano de nascimento de uma pessoa, calcule e mostre sua idade e, também, verifique e mostre se ela já tem idade para votar (16 anos ou mais) e para conseguir a carteira de habilitação (18 anos ou mais).</li>
+<li>Escreva um algoritmo que leia o código de um determinado produto e mostre a sua classificação. Utilize a seguinte tabela como referência:
+<table>
+<th>Código</th>
+<th>Classificação</th>
+<tr><td>1 </td><td>Alimento não-perecível </td></tr>
+<tr><td>2, 3 ou 4</td><td>Alimento perecível </td></tr>
+<tr><td>5 ou 6</td><td>Vestuário </td></tr>
+<tr><td>7</td><td>Higiene pessoal </td></tr>
+<tr><td>8 até 15</td><td>Limpeza e utensílios domésticos</td></tr>
+<tr><td>Qualquer outro código</td><td>Inválido </td></tr>
+</table>
 
 
 </ol>
